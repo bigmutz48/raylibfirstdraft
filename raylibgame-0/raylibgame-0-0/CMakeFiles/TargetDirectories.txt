@@ -1,0 +1,3 @@
+C:/Users/wesse/CODING_PORTFOLIO/projects/Raylibgame/raylibfirstdraft/raylibgame-0/raylibgame-0-0/CMakeFiles/YourExecutableName.dir
+C:/Users/wesse/CODING_PORTFOLIO/projects/Raylibgame/raylibfirstdraft/raylibgame-0/raylibgame-0-0/CMakeFiles/edit_cache.dir
+C:/Users/wesse/CODING_PORTFOLIO/projects/Raylibgame/raylibfirstdraft/raylibgame-0/raylibgame-0-0/CMakeFiles/rebuild_cache.dir
